@@ -1,4 +1,5 @@
 # Redux Nedir, Nasil Uygulanir Projesi
+# cypress ile basic test hazırlama
 
 ## `Kurulum`
 
