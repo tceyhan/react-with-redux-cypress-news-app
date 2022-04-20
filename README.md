@@ -1,6 +1,6 @@
 # Redux Nedir, Nasil Uygulanir Projesi
 # cypress ile basic test hazırlama
-# https://react-with-redux-cypress-news-app.netlify.app/login
+# https://react-with-redux-cypress-news-app.netlify.app/
 
 ## `Kurulum`
 
